@@ -1,0 +1,17 @@
+{
+  "name": "path-query",
+  "version": "1.0.0",
+  "description": "Process url and get its properties in Node with this small and effective module.",
+  "main": "index.js",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/sammwyy/path-query.git"
+  },
+  "keywords":["nodejs", "path", "path-query", "query"],
+  "author": "Sammwy <sammwy.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+  	"url": "https://github.com/sammwyy/path-query/issues"
+  },
+  "homepage": "https://github.com/sammwyy/path-query"
+}
